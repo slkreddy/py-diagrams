@@ -7,4 +7,4 @@ The first requirement to get started with building some of these diagrams is hav
 Start with executing 
 CMD>> python diagram-simple.py
 
-Happy ideating!
+Happy designing!
